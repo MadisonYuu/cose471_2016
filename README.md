@@ -1,1 +1,1 @@
-# [Homework Notice Wiki](https://github.com/MinhwanYu/cose471_2016/wiki)
+# Click > [Homework Notice Wiki](https://github.com/MinhwanYu/cose471_2016/wiki)
