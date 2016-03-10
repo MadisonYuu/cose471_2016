@@ -155,3 +155,4 @@ target/
 # dotenv
 .env
 *_solution.ipynb
+*tmp.ipynb
