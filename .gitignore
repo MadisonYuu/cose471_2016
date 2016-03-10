@@ -154,5 +154,6 @@ target/
 
 # dotenv
 .env
-*_solution.ipynb
 *tmp.ipynb
+*.py
+#*_solution.ipynb
